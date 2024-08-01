@@ -1,6 +1,4 @@
-- Name - Pramod
-- Author - Pramod
-
+- Name - Prisha
 
 ### Web Automation Framework with POM in Python(Selenium)
 
